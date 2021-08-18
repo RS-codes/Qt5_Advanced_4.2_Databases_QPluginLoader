@@ -1,3 +1,7 @@
 # Qt5_Advanced_4.2_Databases_QPluginLoader
 
-#SourceCode to be added soon
+#Under databases, QPluginLoader discussed and 
+
+#SourceCode added
+
+#4.1-not available!
